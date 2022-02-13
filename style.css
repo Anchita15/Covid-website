@@ -89,9 +89,9 @@ header.sticky{
 }
 
 .home{
-    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QA7j7-4f99OYGM18qlkom34DB8WKwRynpyf5-TtyWOctzrKMc6wQ_UIBYhOxmGTnSSA&usqp=CAU) no-repeat;
+    background:url(https://w.ndtvimg.com/sites/3/2020/03/13190308/660x330-coronavirus-comic.jpg) no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: contain;
     background-attachment: fixed;
 }
 
