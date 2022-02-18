@@ -102,7 +102,7 @@ header.sticky{
 
 .home .content h1{
     font-size: 5rem;
-    color:var(--yellow);
+    color:rgb(248, 246, 246);
 }
 
 .home .content h3{
